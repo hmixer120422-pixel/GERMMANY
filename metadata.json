@@ -1,0 +1,8 @@
+{
+  "name": "Deutsch Meister – AI German Reading, Listening & Learning Studio",
+  "description": "Complete AI-powered German learning studio featuring level-adapted text generation (A1–C2), natural German female TTS, synchronized sentence reading, interactive word pronunciation with Arabic dictionary, and long listening concentration mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
